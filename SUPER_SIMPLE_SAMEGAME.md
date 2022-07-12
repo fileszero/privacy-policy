@@ -11,7 +11,7 @@
 
 ### Google 広告に関するポリシー
 
-https://policies.google.com/technologies/ads?hl=ja
+[https://policies.google.com/technologies/ads?hl=ja](https://policies.google.com/technologies/ads?hl=ja)
 
 ## お問い合わせ
 お問い合わせは、Google Play ストアで公開されているメールアドレスまでお願いいたします。

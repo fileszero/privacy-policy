@@ -1,9 +1,9 @@
 ---
-title: SUPER SIMPLE SAMEGAME privacy-policy
+title: 漢字練習帳 privacy-policy
 description: Application privacy policy
 ---
 
-# SUPER SIMPLE SAMEGAME privacy-policy
+# 漢字練習帳 privacy-policy
 当方が提供するスマートフォンアプリをご利用になる皆様の情報について、以下のように取り扱うこととします。
 
 ## 個人を特定できる情報について
